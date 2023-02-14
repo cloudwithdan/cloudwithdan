@@ -1,6 +1,7 @@
 - 👋 Hi there, @dnikoloski here.
 - 👨‍💻 Working as a DevOps at XLAB.
 - 🌱 I’m currently working with GitLab CI/CD, Ansible, Azure, Python.
+- 🌍 Contributing to Tor Project and Arch User Repository (AUR).
 
 <p align="center">
   <i>You can reach me here!</i>

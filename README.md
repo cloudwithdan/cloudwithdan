@@ -1,5 +1,5 @@
 - 👋 Hi there, @dnikoloski here.
-- 👨‍💻 Working as a Platform Engineer at Bragg.
+- 👨‍💻 Working as a Platform Engineer.
 - 🌱 I’m currently working with GitLab CI/CD, Google Cloud, Ansible, Kubernetes, Python, Terraform.
 - 🌍 Contributing to Tor Project and Arch User Repository (AUR).
 
